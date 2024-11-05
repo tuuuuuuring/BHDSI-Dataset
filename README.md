@@ -7,12 +7,12 @@ To address these issues, this paper constructs a large-scale dataset focused on 
 The download link is here:  
 [Download BHDSI-Dataset](https://drive.google.com/drive/folders/1551nlQeoTB8cBbvT362jnfz70GOhIfU5?usp=sharing)
 
-### 样本示例
+# 样本示例
 ![sample](https://github.com/tuuuuuuring/BHDSI-Dataset/blob/main/%E5%B8%83%E5%B1%801gai.png)
 
 <center>
 
-### 城市样本数量分布
+# 城市样本数量分布
 | 城市       | 样本数量 | 城市       | 样本数量 | 城市       | 样本数量 | 城市       | 样本数量 |
 |------------|----------|------------|----------|------------|----------|------------|----------|
 | 澳门       | 3        | 惠州       | 22       | 厦门       | 62       | 西安       | 104      |
