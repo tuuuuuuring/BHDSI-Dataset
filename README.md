@@ -1,3 +1,10 @@
+## Menu
+
+- [Home](#BHDSI-Dataset)
+- [Sample Example](#Sample-Example)
+- [City Sample Size Distribution](#Distribution-of-City-Sample-Sizes)
+- [Download Dataset](https://drive.google.com/drive/folders/1551nlQeoTB8cBbvT362jnfz70GOhIfU5?usp=sharing)
+
 # BHDSI-Dataset
 
 Estimating building heights using optical and SAR remote sensing imagery is crucial for understanding urban morphology and optimizing urban stock space. However, existing datasets have several limitations: the small sample size makes it difficult to meet the demands of deep learning-based remote sensing information extraction, and the limited area coverage does not provide sufficient geographic diversity and spatial feature representation. Moreover, the lack of open-source datasets restricts their broader application and validation in research.
@@ -36,11 +43,4 @@ The download link is here:
 </center>
 
 
-## Menu Bar
 
-To provide easier navigation, here’s an optional menu that could be implemented (depending on the platform and tools you use for rendering the markdown):
-
-- [Home](#BHDSI-Dataset)
-- [Sample Example](#Sample-Example)
-- [City Sample Size Distribution](#Distribution-of-City-Sample-Sizes)
-- [Download Dataset](https://drive.google.com/drive/folders/1551nlQeoTB8cBbvT362jnfz70GOhIfU5?usp=sharing)
