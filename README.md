@@ -46,7 +46,7 @@ The download link is here:
 
 # Model Accuracy Comparison
 Based on this dataset and the project's code, the performance of some benchmark models is as follows
-| Network Type      | Backbone       | Decoder        | RMSE (m) | MAE (m) | Accuracy (%) | IoU (%) | F1-Score (%) |
+| Network Type      | Backbone       | Decoder        | RMSE (m) | MAE (m) | δ1 | δ2 | δ3 |
 |-------------------|----------------|----------------|----------|---------|--------------|---------|--------------|
 | Res-Unet          | ResNet50       | Unet           | 5.988    | 2.443   | 0.143        | 0.293   | 0.443        |
 | VGG-Unet          | VGG16          | Unet           | 5.873    | 2.173   | 0.165        | 0.322   | 0.461        |
