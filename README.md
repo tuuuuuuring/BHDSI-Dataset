@@ -2,7 +2,7 @@
 
 - [BHDSI Dataset](#BHDSI-Dataset)
 - [Sample Example](#Sample-Example)
-- [City Sample Size Distribution](#Distribution-of-City-Sample-Sizes)
+- [City Sample Distribution](#Distribution-of-City-Sample-Sizes)
 - [Download Dataset](https://drive.google.com/drive/folders/1551nlQeoTB8cBbvT362jnfz70GOhIfU5?usp=sharing)
 - [Model Comparison](#Model-Accuracy-Comparison)
 - [Citation](#Article-Citation)
