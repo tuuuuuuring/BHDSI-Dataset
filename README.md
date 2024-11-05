@@ -5,6 +5,7 @@
 - [City Sample Size Distribution](#Distribution-of-City-Sample-Sizes)
 - [Download Dataset](https://drive.google.com/drive/folders/1551nlQeoTB8cBbvT362jnfz70GOhIfU5?usp=sharing)
 - [Model Comparison](#Model-Accuracy-Comparison)
+- [Model Comparison](#Article-Citation)
 
 # BHDSI-Dataset
 
@@ -53,4 +54,7 @@ Based on this dataset and the project's code, the performance of some benchmark 
 | UperNet           | ResNet50       | FPN            | 6.224    | 2.440   | 0.125        | 0.249   | 0.383        |
 | DeepLabV3         | ResNet50       | ASPP           | 6.720    | 2.604   | 0.095        | 0.190   | 0.301        |
 
+# Article Citation
 
+The article related to this dataset can be found here:
+xxxx. [DOI:xxxxxxxx/xxx.xxxxxxxx]
