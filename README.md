@@ -4,6 +4,7 @@
 - [Sample Example](#Sample-Example)
 - [City Sample Size Distribution](#Distribution-of-City-Sample-Sizes)
 - [Download Dataset](https://drive.google.com/drive/folders/1551nlQeoTB8cBbvT362jnfz70GOhIfU5?usp=sharing)
+- [Model Comparison](# Model Accuracy Comparison)
 
 # BHDSI-Dataset
 
@@ -42,5 +43,14 @@ The download link is here:
 
 </center>
 
+# Model Accuracy Comparison
+Based on this dataset and the project's code, the performance of some benchmark models is as follows
+| Network Type      | Backbone       | Decoder        | RMSE (m) | MAE (m) | Accuracy (%) | IoU (%) | F1-Score (%) |
+|-------------------|----------------|----------------|----------|---------|--------------|---------|--------------|
+| Res-Unet          | ResNet50       | Unet           | 5.988    | 2.443   | 0.143        | 0.293   | 0.443        |
+| VGG-Unet          | VGG16          | Unet           | 5.873    | 2.173   | 0.165        | 0.322   | 0.461        |
+| Efficient-Unet    | EfficientNetb3 | Unet           | 5.948    | 2.146   | 0.158        | 0.295   | 0.425        |
+| UperNet           | ResNet50       | FPN            | 6.224    | 2.440   | 0.125        | 0.249   | 0.383        |
+| DeepLabV3         | ResNet50       | ASPP           | 6.720    | 2.604   | 0.095        | 0.190   | 0.301        |
 
 
