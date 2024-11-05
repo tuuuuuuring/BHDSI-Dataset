@@ -7,7 +7,7 @@ To address these issues, this paper constructs a large-scale dataset focused on 
 The download link is here:  
 [Download BHDSI-Dataset](https://drive.google.com/drive/folders/1551nlQeoTB8cBbvT362jnfz70GOhIfU5?usp=sharing)
 
-# 样本示例
+# Sample Example
 ![sample](https://github.com/tuuuuuuring/BHDSI-Dataset/blob/main/%E5%B8%83%E5%B1%801gai.png)
 
 <center>
@@ -34,3 +34,13 @@ The download link is here:
 | Hohhot      | 14          | Sanya       | 29          | Wuhan       | 176         |             |             |
 
 </center>
+
+
+## Menu Bar
+
+To provide easier navigation, here’s an optional menu that could be implemented (depending on the platform and tools you use for rendering the markdown):
+
+- [Home](#BHDSI-Dataset)
+- [Sample Example](#Sample-Example)
+- [City Sample Size Distribution](#Distribution-of-City-Sample-Sizes)
+- [Download Dataset](https://drive.google.com/drive/folders/1551nlQeoTB8cBbvT362jnfz70GOhIfU5?usp=sharing)
