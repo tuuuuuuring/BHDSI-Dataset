@@ -12,24 +12,25 @@ The download link is here:
 
 <center>
 
-# 城市样本数量分布
-| 城市       | 样本数量 | 城市       | 样本数量 | 城市       | 样本数量 | 城市       | 样本数量 |
-|------------|----------|------------|----------|------------|----------|------------|----------|
-| 澳门       | 3        | 惠州       | 22       | 厦门       | 62       | 西安       | 104      |
-| 保定       | 23       | 济南       | 79       | 汕头       | 20       | 西宁       | 16       |
-| 北京       | 190      | 嘉兴       | 36       | 上海       | 342      | 香港       | 31       |
-| 常州       | 72       | 金华       | 20       | 绍兴       | 33       | 徐州       | 33       |
-| 成都       | 225      | 昆明       | 103      | 深圳       | 113      | 烟台       | 65       |
-| 大连       | 165      | 拉萨       | 7        | 沈阳       | 165      | 扬州       | 13       |
-| 东莞       | 98       | 兰州       | 27       | 石家庄     | 76       | 银川       | 12       |
-| 鄂尔多斯   | 11       | 洛阳       | 27       | 苏州       | 103      | 长春       | 103      |
-| 佛山广州   | 277      | 南昌       | 35       | 台州       | 26       | 长沙       | 98       |
-| 福州       | 37       | 南京       | 128      | 太原       | 40       | 郑州       | 147      |
-| 贵阳       | 54       | 南宁       | 62       | 唐山       | 35       | 中山       | 19       |
-| 哈尔滨     | 76       | 南通       | 49       | 天津       | 96       | 重庆       | 199      |
-| 海口       | 20       | 宁波       | 74       | 温州       | 51       | 珠海       | 20       |
-| 杭州       | 124      | 青岛       | 150      | 无锡       | 79       |            |          |
-| 合肥       | 91       | 泉州       | 38       | 芜湖       | 29       |            |          |
-| 呼和浩特   | 14       | 三亚       | 29       | 武汉       | 176      |            |          |
+# Distribution of City Sample Sizes
+
+| City        | Sample Size | City        | Sample Size | City        | Sample Size | City        | Sample Size |
+|-------------|-------------|-------------|-------------|-------------|-------------|-------------|-------------|
+| Macau       | 3           | Huizhou     | 22          | Xiamen      | 62          | Xi'an       | 104         |
+| Baoding     | 23          | Jinan       | 79          | Shantou     | 20          | Xining      | 16          |
+| Beijing     | 190         | Jiaxing     | 36          | Shanghai    | 342         | Hong Kong   | 31          |
+| Changzhou   | 72          | Jinhua      | 20          | Shaoxing    | 33          | Xuzhou      | 33          |
+| Chengdu     | 225         | Kunming     | 103         | Shenzhen    | 113         | Yantai      | 65          |
+| Dalian      | 165         | Lhasa       | 7           | Shenyang    | 165         | Yangzhou    | 13          |
+| Dongguan    | 98          | Lanzhou     | 27          | Shijiazhuang| 76          | Yinchuan    | 12          |
+| Ordos       | 11          | Luoyang     | 27          | Suzhou      | 103         | Changchun   | 103         |
+| Foshan Guangzhou | 277    | Nanchang    | 35          | Taizhou     | 26          | Changsha    | 98          |
+| Fuzhou      | 37          | Nanjing     | 128         | Taiyuan     | 40          | Zhengzhou   | 147         |
+| Guiyang     | 54          | Nanning     | 62          | Tangshan    | 35          | Zhongshan   | 19          |
+| Harbin      | 76          | Nantong     | 49          | Tianjin     | 96          | Chongqing   | 199         |
+| Haikou      | 20          | Ningbo      | 74          | Wenzhou     | 51          | Zhuhai      | 20          |
+| Hangzhou    | 124         | Qingdao     | 150         | Wuxi        | 79          |             |             |
+| Hefei       | 91          | Quanzhou    | 38          | Wuhu        | 29          |             |             |
+| Hohhot      | 14          | Sanya       | 29          | Wuhan       | 176         |             |             |
 
 </center>
